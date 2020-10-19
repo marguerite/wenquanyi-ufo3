@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="SF240000" format="2">
+  <advance width="1024"/>
+  <unicode hex="2551"/>
+  <outline>
+    <contour>
+      <point x="463" y="811" type="line" smooth="yes"/>
+      <point x="463" y="831"/>
+      <point x="487" y="831"/>
+      <point x="487" y="811" type="qcurve" smooth="yes"/>
+      <point x="487" y="-188" type="line" smooth="yes"/>
+      <point x="487" y="-209"/>
+      <point x="463" y="-209"/>
+      <point x="463" y="-188" type="qcurve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="552" y="811" type="line" smooth="yes"/>
+      <point x="552" y="831"/>
+      <point x="579" y="831"/>
+      <point x="579" y="811" type="qcurve" smooth="yes"/>
+      <point x="579" y="-188" type="line" smooth="yes"/>
+      <point x="579" y="-209"/>
+      <point x="552" y="-209"/>
+      <point x="552" y="-188" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="u101CD" format="2">
+  <advance width="1024" height="1024"/>
+  <outline>
+    <contour>
+      <point x="800" y="767" type="line"/>
+      <point x="868" y="767" type="line" smooth="yes"/>
+      <point x="879" y="767"/>
+      <point x="879" y="759" type="qcurve" smooth="yes"/>
+      <point x="872" y="726" type="line"/>
+      <point x="872" y="725" type="line"/>
+      <point x="872" y="218" type="line"/>
+      <point x="800" y="218" type="line"/>
+      <point x="800" y="425" type="line"/>
+      <point x="677" y="425" type="line"/>
+      <point x="677" y="218" type="line"/>
+      <point x="605" y="218" type="line"/>
+      <point x="605" y="746" type="line"/>
+      <point x="672" y="746" type="line" smooth="yes"/>
+      <point x="685" y="746"/>
+      <point x="685" y="736" type="qcurve" smooth="yes"/>
+      <point x="677" y="707" type="line"/>
+      <point x="677" y="706" type="line"/>
+      <point x="677" y="492" type="line"/>
+      <point x="800" y="492" type="line"/>
+    </contour>
+  </outline>
+</glyph>

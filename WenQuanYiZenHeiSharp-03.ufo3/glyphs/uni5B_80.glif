@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni5B80" format="2">
+  <advance width="1024" height="1024"/>
+  <unicode hex="5B80"/>
+  <outline>
+    <contour>
+      <point x="116" y="445" type="line"/>
+      <point x="116" y="445"/>
+      <point x="41" y="445" type="qcurve"/>
+      <point x="41" y="636" type="line"/>
+      <point x="959" y="636" type="line"/>
+      <point x="959" y="445" type="line"/>
+      <point x="884" y="445" type="line"/>
+      <point x="884" y="569" type="line"/>
+      <point x="116" y="569" type="line"/>
+    </contour>
+    <contour>
+      <point x="550" y="723" type="line"/>
+      <point x="501" y="656" type="line"/>
+      <point x="367" y="753" type="line"/>
+      <point x="415" y="820" type="line"/>
+    </contour>
+  </outline>
+</glyph>

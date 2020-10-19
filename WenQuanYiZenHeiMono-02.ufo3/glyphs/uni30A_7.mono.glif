@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni30A7.mono" format="2">
+  <advance width="1048"/>
+  <outline>
+    <contour>
+      <point x="879" y="590" type="line"/>
+      <point x="879" y="280"/>
+      <point x="685" y="58" type="qcurve" smooth="yes"/>
+      <point x="584" y="-59"/>
+      <point x="440" y="-134" type="qcurve"/>
+      <point x="374" y="-79" type="line"/>
+      <point x="428" y="-60"/>
+      <point x="487" y="-19" type="qcurve" smooth="yes"/>
+      <point x="674" y="112"/>
+      <point x="753" y="305" type="qcurve" smooth="yes"/>
+      <point x="797" y="411"/>
+      <point x="797" y="522" type="qcurve"/>
+      <point x="206" y="522" type="line"/>
+      <point x="206" y="292" type="line"/>
+      <point x="123" y="292" type="line"/>
+      <point x="123" y="591" type="line"/>
+      <point x="460" y="591" type="line"/>
+      <point x="460" y="751" type="line"/>
+      <point x="512" y="751" type="line" smooth="yes"/>
+      <point x="542" y="751"/>
+      <point x="551" y="738" type="qcurve" smooth="yes"/>
+      <point x="551" y="735"/>
+      <point x="540" y="717" type="qcurve"/>
+      <point x="540" y="590" type="line"/>
+    </contour>
+  </outline>
+</glyph>

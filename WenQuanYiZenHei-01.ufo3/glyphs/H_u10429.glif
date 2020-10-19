@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Hu10429" format="2">
+  <advance width="1024" height="1024"/>
+  <outline>
+    <contour>
+      <point x="176" y="746" type="line"/>
+      <point x="242" y="746" type="line" smooth="yes"/>
+      <point x="255" y="746"/>
+      <point x="255" y="737" type="qcurve" smooth="yes"/>
+      <point x="247" y="702" type="line"/>
+      <point x="247" y="701" type="line"/>
+      <point x="247" y="628" type="line"/>
+      <point x="777" y="628" type="line"/>
+      <point x="777" y="746" type="line"/>
+      <point x="843" y="746" type="line" smooth="yes"/>
+      <point x="856" y="746"/>
+      <point x="856" y="737" type="qcurve" smooth="yes"/>
+      <point x="848" y="702" type="line"/>
+      <point x="848" y="701" type="line"/>
+      <point x="848" y="384" type="line"/>
+      <point x="176" y="384" type="line"/>
+    </contour>
+    <contour>
+      <point x="777" y="561" type="line"/>
+      <point x="247" y="561" type="line"/>
+      <point x="247" y="452" type="line"/>
+      <point x="777" y="452" type="line"/>
+    </contour>
+  </outline>
+</glyph>

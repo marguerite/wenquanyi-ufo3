@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFE42" format="2">
+  <advance width="1024" height="1024"/>
+  <unicode hex="FE42"/>
+  <outline>
+    <contour>
+      <point x="43" y="620" type="line" smooth="yes"/>
+      <point x="43" y="639"/>
+      <point x="61" y="639" type="qcurve" smooth="yes"/>
+      <point x="72" y="639" type="line" smooth="yes"/>
+      <point x="90" y="639"/>
+      <point x="90" y="621" type="qcurve" smooth="yes"/>
+      <point x="90" y="382" type="line" smooth="yes"/>
+      <point x="90" y="368"/>
+      <point x="104" y="368" type="qcurve" smooth="yes"/>
+      <point x="879" y="368" type="line" smooth="yes"/>
+      <point x="899" y="368"/>
+      <point x="899" y="348" type="qcurve" smooth="yes"/>
+      <point x="899" y="342" type="line" smooth="yes"/>
+      <point x="899" y="324"/>
+      <point x="879" y="324" type="qcurve" smooth="yes"/>
+      <point x="63" y="324" type="line" smooth="yes"/>
+      <point x="43" y="324"/>
+      <point x="43" y="342" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

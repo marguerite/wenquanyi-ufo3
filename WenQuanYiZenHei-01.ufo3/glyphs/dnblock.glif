@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dnblock" format="2">
+  <advance width="1024" height="1024"/>
+  <unicode hex="2584"/>
+  <outline>
+    <contour>
+      <point x="-6" y="271" type="line" smooth="yes"/>
+      <point x="-6" y="291"/>
+      <point x="11" y="291" type="qcurve" smooth="yes"/>
+      <point x="930" y="291" type="line" smooth="yes"/>
+      <point x="948" y="291"/>
+      <point x="948" y="272" type="qcurve" smooth="yes"/>
+      <point x="948" y="-165" type="line" smooth="yes"/>
+      <point x="948" y="-184"/>
+      <point x="930" y="-184" type="qcurve" smooth="yes"/>
+      <point x="12" y="-184" type="line" smooth="yes"/>
+      <point x="-6" y="-184"/>
+      <point x="-6" y="-165" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Hu10283" format="2">
+  <advance width="1024" height="1024"/>
+  <outline>
+    <contour>
+      <point x="189" y="195" type="line"/>
+      <point x="492" y="195" type="line"/>
+      <point x="492" y="1" type="line"/>
+      <point x="261" y="1" type="line"/>
+      <point x="261" y="-79" type="line"/>
+      <point x="384" y="-79"/>
+      <point x="514" y="-61" type="qcurve"/>
+      <point x="514" y="-124" type="line"/>
+      <point x="316" y="-144"/>
+      <point x="189" y="-144" type="qcurve"/>
+      <point x="189" y="65" type="line"/>
+      <point x="421" y="65" type="line"/>
+      <point x="421" y="131" type="line"/>
+      <point x="189" y="131" type="line"/>
+    </contour>
+    <contour>
+      <point x="569" y="195" type="line"/>
+      <point x="873" y="195" type="line"/>
+      <point x="873" y="131" type="line"/>
+      <point x="641" y="131" type="line"/>
+      <point x="641" y="56" type="line"/>
+      <point x="873" y="56" type="line"/>
+      <point x="873" y="-6" type="line"/>
+      <point x="641" y="-6" type="line"/>
+      <point x="641" y="-80" type="line"/>
+      <point x="893" y="-80" type="line"/>
+      <point x="893" y="-144" type="line"/>
+      <point x="569" y="-144" type="line"/>
+    </contour>
+  </outline>
+</glyph>
