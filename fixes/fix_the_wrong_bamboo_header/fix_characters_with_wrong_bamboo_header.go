@@ -25,16 +25,20 @@ func main() {
 			}
 			glyph := ufo3.NewGlyphFromFile(f)
 
-			for i, v := range glyph.Outline.Contours {
-				j, p := v.FindPointByX("4")
+			for m, v := range glyph.Outline.Contours {
+				i, p := v.FindPointByX("49")
 				if p.IsNil() {
 					continue
 				}
-				if j != len(v.Points)-1 {
+				j, p1 := v.FindPointByX("243")
+				k, p2 := v.FindPointByX("253", "qcurve", "yes")
+				if p1.IsNil() || p2.IsNil() {
 					continue
 				}
-				fmt.Printf("fixing %s\n", glyphutils.CodepointFromGlifFileName(f))
-				glyph.DeletePoint(i, j)
+				if i-j == 1 && k-i == 1 {
+					fmt.Printf("fixing %s\n", glyphutils.CodepointFromGlifFileName(f))
+					glyph.DeletePoint(m, i)
+				}
 			}
 
 			ioutil.WriteFile(f, glyph.Bytes(), 0644)

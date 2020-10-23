@@ -30,10 +30,14 @@ func main() {
 			if p.IsNil() {
 				continue
 			}
-			if i != len(v.Points)-1 {
+			j, p1 := v.FindPointByX("243")
+			k, p2 := v.FindPointByX("253", "qcurve", "yes")
+			if p1.IsNil() || p2.IsNil() {
 				continue
 			}
-			chars += glyphutils.CodepointFromGlifFileName(f)
+			if i-j == 1 && k-i == 1 {
+				chars += glyphutils.CodepointFromGlifFileName(f)
+			}
 		}
 	}
 
