@@ -130,13 +130,18 @@ func (g *Glyph) DeletePoint(idxContour, idxPoint int) {
 	cv.Set(s)
 }
 
-func (g *Glyph) AppendPoint(idxContour, idxPoint int, point Point) {
+func (g *Glyph) AppendPoint(idxContour, idxPoint int, point Point, reverse bool) {
   cv := reflect.Indirect(reflect.ValueOf(g)).FieldByName("Outline").FieldByName("Contours").Index(idxContour).FieldByName("Points")
   s := reflect.MakeSlice(reflect.SliceOf(cv.Index(0).Type()), 0, 0)
   for i := 0; i < cv.Len(); i++ {
     if i == idxPoint {
-      s = reflect.Append(s, reflect.ValueOf(point))
-      s = reflect.Append(s, cv.Index(i))
+      if reverse {
+        s = reflect.Append(s, cv.Index(i))
+        s = reflect.Append(s, reflect.ValueOf(point))
+      } else {
+        s = reflect.Append(s, reflect.ValueOf(point))
+        s = reflect.Append(s, cv.Index(i))
+      }
       continue
     }
     s = reflect.Append(s, cv.Index(i))
