@@ -6,22 +6,30 @@
     <contour>
       <point x="647" y="756"/>
       <point x="797" y="578"/>
+      <point x="797" y="372" type="qcurve" smooth="yes"/>
       <point x="797" y="166"/>
       <point x="647" y="-12"/>
+      <point x="512" y="-12" type="qcurve" smooth="yes"/>
       <point x="377" y="-12"/>
       <point x="227" y="166"/>
+      <point x="227" y="372" type="qcurve" smooth="yes"/>
       <point x="227" y="578"/>
       <point x="377" y="756"/>
+      <point x="512" y="756" type="qcurve" smooth="yes"/>
     </contour>
     <contour>
       <point x="613" y="54"/>
       <point x="715" y="205"/>
+      <point x="715" y="372" type="qcurve" smooth="yes"/>
       <point x="715" y="539"/>
       <point x="613" y="689"/>
+      <point x="512" y="689" type="qcurve" smooth="yes"/>
       <point x="411" y="689"/>
       <point x="309" y="539"/>
+      <point x="309" y="372" type="qcurve" smooth="yes"/>
       <point x="309" y="205"/>
       <point x="411" y="54"/>
+      <point x="512" y="54" type="qcurve" smooth="yes"/>
     </contour>
   </outline>
 </glyph>

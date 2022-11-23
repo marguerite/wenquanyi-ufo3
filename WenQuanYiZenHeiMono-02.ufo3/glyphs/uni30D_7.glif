@@ -29,12 +29,16 @@
     <contour>
       <point x="954" y="766"/>
       <point x="911" y="809"/>
+      <point x="881" y="809" type="qcurve" smooth="yes"/>
       <point x="850" y="809"/>
       <point x="807" y="766"/>
+      <point x="807" y="736" type="qcurve" smooth="yes"/>
       <point x="807" y="705"/>
       <point x="850" y="662"/>
+      <point x="881" y="662" type="qcurve" smooth="yes"/>
       <point x="911" y="662"/>
       <point x="954" y="705"/>
+      <point x="954" y="736" type="qcurve" smooth="yes"/>
     </contour>
   </outline>
 </glyph>

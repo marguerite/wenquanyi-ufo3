@@ -16,12 +16,16 @@
     <contour>
       <point x="955" y="766"/>
       <point x="911" y="810"/>
+      <point x="881" y="810" type="qcurve" smooth="yes"/>
       <point x="850" y="810"/>
       <point x="806" y="766"/>
+      <point x="806" y="736" type="qcurve" smooth="yes"/>
       <point x="806" y="705"/>
       <point x="850" y="660"/>
+      <point x="881" y="660" type="qcurve" smooth="yes"/>
       <point x="911" y="660"/>
       <point x="955" y="705"/>
+      <point x="955" y="736" type="qcurve" smooth="yes"/>
     </contour>
     <contour>
       <point x="1014" y="680"/>

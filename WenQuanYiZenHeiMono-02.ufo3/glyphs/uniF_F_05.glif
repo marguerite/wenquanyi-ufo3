@@ -32,12 +32,16 @@
     <contour>
       <point x="664" y="-12"/>
       <point x="573" y="90"/>
+      <point x="573" y="184" type="qcurve" smooth="yes"/>
       <point x="573" y="278"/>
       <point x="664" y="380"/>
+      <point x="746" y="380" type="qcurve" smooth="yes"/>
       <point x="827" y="380"/>
       <point x="919" y="278"/>
+      <point x="919" y="184" type="qcurve" smooth="yes"/>
       <point x="919" y="90"/>
       <point x="827" y="-12"/>
+      <point x="746" y="-12" type="qcurve" smooth="yes"/>
     </contour>
     <contour>
       <point x="197" y="364"/>
