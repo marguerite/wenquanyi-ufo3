@@ -1,6 +1,0 @@
-#!/usr/bin/fontforge
-# Usage: fontforge -script ufo2ttf.pe <ufo3 font directory> <output ttf name>
-
-Open($1)
-Generate($2)
-Close()
