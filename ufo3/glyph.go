@@ -130,6 +130,20 @@ func (g *Glyph) DeletePoint(idxContour, idxPoint int) {
 	cv.Set(s)
 }
 
+func (g *Glyph) AppendPoint(idxContour, idxPoint int, point Point) {
+  cv := reflect.Indirect(reflect.ValueOf(g)).FieldByName("Outline").FieldByName("Contours").Index(idxContour).FieldByName("Points")
+  s := reflect.MakeSlice(reflect.SliceOf(cv.Index(0).Type()), 0, 0)
+  for i := 0; i < cv.Len(); i++ {
+    if i == idxPoint {
+      s = reflect.Append(s, reflect.ValueOf(point))
+      s = reflect.Append(s, cv.Index(i))
+      continue
+    }
+    s = reflect.Append(s, cv.Index(i))
+  }
+  cv.Set(s)
+}
+
 // FindPointByX find a point with by its X value
 func (c Contour) FindPointByX(x string, options ...string) (idx int, point Point) {
 	var typ, smooth string
