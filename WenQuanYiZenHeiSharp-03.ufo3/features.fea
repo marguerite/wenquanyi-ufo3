@@ -223,7 +223,7 @@ feature frac {
 	\uni307C \uni307D \uni307E \uni307F \uni3080 \uni3081 \uni3082 \uni3083 \uni3084 
 	\uni3085 \uni3086 \uni3087 \uni3088 \uni3089 \uni308A \uni308B \uni308C \uni308D 
 	\uni308E \uni308F \uni3090 \uni3091 \uni3092 \uni3093 \uni3094 \uni3095 \uni3096 
-	\uni3097 \uni3098 \uni3099 \uni309A \uni309B \uni309C \uni309D \uni309E \uni309F 
+	\uni3097 \uni3098 \uni309A \uni309B \uni309C \uni309D \uni309E \uni309F 
 	\uni30A0 \uni30A1 \uni30A2 \uni30A3 \uni30A4 \uni30A5 \uni30A6 \uni30A7 \uni30A8 
 	\uni30A9 \uni30AA \uni30AB \uni30AC \uni30AD \uni30AE \uni30AF \uni30B0 \uni30B1 
 	\uni30B2 \uni30B3 \uni30B4 \uni30B5 \uni30B6 \uni30B7 \uni30B8 \uni30B9 \uni30BA 
@@ -4977,8 +4977,10 @@ feature frac {
 	\comp_vyang \hyphen.mono \slash.mono \colon.mono \less.mono \equal.mono 
 	\greater.mono \c.mono \o.mono \bar.mono ];
 
+@MARKS = [\uni3099];
+
 table GDEF {
-  GlyphClassDef @GDEF_Simple, , , ;
+  GlyphClassDef @GDEF_Simple, ,@MARKS, ;
 
 } GDEF;
 
