@@ -14,11 +14,10 @@
     <integer>0</integer>
     <key>versionMinor</key>
     <integer>9</integer>
+    <key>fontRevision</key>
+    <integer>48</integer>
     <key>copyright</key>
-    <string>Copyright (c) Qianqian Fang and WenQuanYi Board of Trustees
-
-Version: 0.9
-Codename: Fighting-State RC1</string>
+    <string>Copyright 2022 Qianqian Fang and WenQuanYi Board of Trustees</string>
     <key>trademark</key>
     <string>WenQuanYi</string>
     <key>unitsPerEm</key>
@@ -42,15 +41,15 @@ Codename: Fighting-State RC1</string>
     <key>openTypeNameDesignerURL</key>
     <string>http://nmr.mgh.harvard.edu/~fangq/</string>
     <key>openTypeNameManufacturer</key>
-    <string>Qianqian Fang</string>
+    <string>Marguerite Su</string>
     <key>openTypeNameManufacturerURL</key>
-    <string>http://wenq.org/</string>
+    <string>https://github.com/marguerite/wenquanyi-ufo3</string>
     <key>openTypeNameLicense</key>
     <string>GPL2 with font embedding exception</string>
     <key>openTypeNameLicenseURL</key>
     <string>http://www.gnu.org/copyleft/gpl.html</string>
     <key>openTypeNameVersion</key>
-    <string>Version 0.9.48</string>
+    <string>0.00900</string>
     <key>openTypeNameUniqueID</key>
     <string>WenQuanYiZenHeiMono : 23-11-2022</string>
     <key>openTypeNameDescription</key>
