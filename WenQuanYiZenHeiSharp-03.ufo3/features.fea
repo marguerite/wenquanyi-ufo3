@@ -4762,9 +4762,9 @@ feature frac {
 	\ref2FA16 \ref2FA17 \ref2FA18 \ref2FA19 \ref2FA1A \ref2FA1B \ref2FA1C \ref2FA1D      
 	    ];
 
-@MARKS = [\uni3099 \309A \Hu10376 \Hu10377 \Hu10378 \Hu10379 \u101FD \u102E0 \u1037A];
+@GDEF_MARK = [\uni3099 \309A \Hu10376 \Hu10377 \Hu10378 \Hu10379 \u101FD \u102E0 \u1037A];
 
-@COMPONENTS = [\bar.mono \c.mono \colon.mono \comp_circle \comp_paren \comp_tri \comp_vyang \comp_yang \comp_yin \equal.mono
+@GDEF_COMPONENT = [\bar.mono \c.mono \colon.mono \comp_circle \comp_paren \comp_tri \comp_vyang \comp_yang \comp_yin \equal.mono
 \greater.mono \hyphen.mono \less.mono \o.mono \slash.mono \u107AC \u107AD \u107AE \u107AF \u107B1
 \u107B2 \u107B3 \u107B4 \u107B5 \u107B6 \u107B7 \u107B8 \u107B9 \u107BA \u107BB
 \u107BC \u107BD \u107BE \u107BF \u107C0 \u107C1 \u107C2 \u107C3 \u107C4 \u107C5
@@ -4967,7 +4967,7 @@ feature frac {
 \Hu10011 \Hu10013 \Hu10015 \Hu10017 \Hu10019 \Hu10022 \Hu10028];
 
 table GDEF {
-  GlyphClassDef @GDEF_Simple, ,@MARKS, @COMPONENTS;
+  GlyphClassDef @GDEF_Simple, ,@GDEF_MARK, @GDEF_COMPONENT;
 
 } GDEF;
 

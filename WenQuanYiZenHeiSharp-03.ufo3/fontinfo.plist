@@ -9,7 +9,7 @@
     <key>styleMapFamilyName</key>
     <string>WenQuanYi Zen Hei Sharp</string>
     <key>styleMapStyleName</key>
-    <string>regular</string>
+    <string>medium</string>
     <key>versionMajor</key>
     <integer>0</integer>
     <key>versionMinor</key>
@@ -44,29 +44,10 @@
     <string>Marguerite Su</string>
     <key>openTypeNameManufacturerURL</key>
     <string>https://github.com/marguerite/wenquanyi-ufo3</string>
-    <key>openTypeNameLicense</key>
-    <string>GPL2 with font embedding exception</string>
-    <key>openTypeNameLicenseURL</key>
-    <string>http://www.gnu.org/copyleft/gpl.html</string>
     <key>openTypeNameVersion</key>
-    <string>0.00900</string>
+    <string>0.00948</string>
     <key>openTypeNameUniqueID</key>
-    <string>WenQuanYiZenHeiSharp : 23-11-2022</string>
-    <key>openTypeNameDescription</key>
-    <string>WenQuanYi Zen Hei Sharp</string>
-    <key>openTypeOS2Panose</key>
-    <array>
-      <integer>2</integer>
-      <integer>0</integer>
-      <integer>5</integer>
-      <integer>3</integer>
-      <integer>0</integer>
-      <integer>0</integer>
-      <integer>0</integer>
-      <integer>0</integer>
-      <integer>0</integer>
-      <integer>0</integer>
-    </array>
+    <string>WenQuanYi Zen Hei Sharp Medium</string>
     <key>openTypeOS2WidthClass</key>
     <integer>5</integer>
     <key>openTypeOS2WeightClass</key>
@@ -114,75 +95,10 @@
     <integer>265</integer>
     <key>openTypeVheaTypoLineGap</key>
     <integer>92</integer>
-    <key>openTypeOS2UnicodeRanges</key>
-    <array>
-      <integer>0</integer>
-      <integer>1</integer>
-      <integer>2</integer>
-      <integer>3</integer>
-      <integer>4</integer>
-      <integer>5</integer>
-      <integer>7</integer>
-      <integer>9</integer>
-      <integer>28</integer>
-      <integer>31</integer>
-      <integer>32</integer>
-      <integer>33</integer>
-      <integer>35</integer>
-      <integer>36</integer>
-      <integer>37</integer>
-      <integer>38</integer>
-      <integer>39</integer>
-      <integer>40</integer>
-      <integer>42</integer>
-      <integer>43</integer>
-      <integer>44</integer>
-      <integer>45</integer>
-      <integer>46</integer>
-      <integer>48</integer>
-      <integer>49</integer>
-      <integer>50</integer>
-      <integer>51</integer>
-      <integer>52</integer>
-      <integer>54</integer>
-      <integer>55</integer>
-      <integer>56</integer>
-      <integer>57</integer>
-      <integer>59</integer>
-      <integer>60</integer>
-      <integer>61</integer>
-      <integer>65</integer>
-      <integer>66</integer>
-      <integer>68</integer>
-      <integer>69</integer>
-    </array>
-    <key>openTypeOS2CodePageRanges</key>
-    <array>
-      <integer>0</integer>
-      <integer>2</integer>
-      <integer>3</integer>
-      <integer>17</integer>
-      <integer>18</integer>
-      <integer>19</integer>
-      <integer>20</integer>
-      <integer>21</integer>
-      <integer>29</integer>
-      <integer>30</integer>
-      <integer>48</integer>
-      <integer>49</integer>
-      <integer>50</integer>
-      <integer>52</integer>
-      <integer>54</integer>
-      <integer>55</integer>
-      <integer>57</integer>
-      <integer>60</integer>
-      <integer>62</integer>
-      <integer>63</integer>
-    </array>
     <key>postscriptFontName</key>
-    <string>WenQuanYiZenHeiSharp</string>
+    <string>WenQuanYiZenHeiSharp-Medium</string>
     <key>postscriptFullName</key>
-    <string>WenQuanYi Zen Hei Sharp</string>
+    <string>WenQuanYi Zen Hei Sharp Medium</string>
     <key>postscriptWeightName</key>
     <string>Medium</string>
     <key>postscriptUnderlineThickness</key>
