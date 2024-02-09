@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ref1D309" format="2">
+  <advance width="1024"/>
+  <unicode hex="1D309"/>
+  <outline>
+    <component base="comp_yang" yScale="0.25" yOffset="768"/>
+    <component base="comp_yang" yScale="0.25" yOffset="512"/>
+    <component base="comp_yin" yScale="0.25" yOffset="256"/>
+    <component base="comp_yang" yScale="0.25"/>
+  </outline>
+</glyph>

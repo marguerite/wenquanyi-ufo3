@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Hu10213" format="2">
+  <advance width="1024"/>
+  <outline>
+    <contour>
+      <point x="188" y="176" type="line"/>
+      <point x="862" y="176" type="line"/>
+      <point x="862" y="-147" type="line"/>
+      <point x="790" y="-147" type="line"/>
+      <point x="790" y="-34" type="line"/>
+      <point x="694.667" y="-40"/>
+      <point x="552" y="-49.6667"/>
+      <point x="362" y="-63" type="curve" smooth="yes"/>
+      <point x="307.333" y="-67"/>
+      <point x="275.333" y="-70"/>
+      <point x="266" y="-72" type="curve" smooth="yes"/>
+      <point x="220" y="-86" type="line"/>
+      <point x="215" y="-86" type="line" smooth="yes"/>
+      <point x="202.333" y="-86"/>
+      <point x="188.667" y="-58.3333"/>
+      <point x="174" y="-3" type="curve"/>
+      <point x="210.667" y="-1.66667"/>
+      <point x="386.333" y="7.33333"/>
+      <point x="701" y="24" type="curve" smooth="yes"/>
+      <point x="778" y="28" type="line"/>
+      <point x="784.667" y="31.3333"/>
+      <point x="788.667" y="34.6667"/>
+      <point x="790" y="38" type="curve" smooth="yes"/>
+      <point x="790" y="109" type="line"/>
+      <point x="188" y="109" type="line"/>
+    </contour>
+  </outline>
+</glyph>

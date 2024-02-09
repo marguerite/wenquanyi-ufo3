@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Hu10343" format="2">
+  <advance width="1010"/>
+  <outline>
+    <contour>
+      <point x="126" y="693" type="line"/>
+      <point x="564" y="693" type="line"/>
+      <point x="564" y="639" type="line"/>
+      <point x="184" y="639" type="line"/>
+      <point x="184" y="362" type="line"/>
+      <point x="264" y="362" type="line" smooth="yes"/>
+      <point x="393" y="362"/>
+      <point x="537" y="382"/>
+      <point x="696" y="421" type="curve"/>
+      <point x="699" y="388"/>
+      <point x="701" y="367"/>
+      <point x="701" y="359" type="curve" smooth="yes"/>
+      <point x="701" y="358"/>
+      <point x="701" y="357"/>
+      <point x="700" y="355" type="curve" smooth="yes"/>
+      <point x="537" y="321"/>
+      <point x="346" y="304"/>
+      <point x="126" y="304" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

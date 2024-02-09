@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Hu10694" format="2">
+  <advance width="982"/>
+  <outline>
+    <contour>
+      <point x="178" y="152" type="line"/>
+      <point x="453" y="152" type="line"/>
+      <point x="453" y="-20" type="line"/>
+      <point x="236" y="-20" type="line"/>
+      <point x="236" y="-94" type="line"/>
+      <point x="316" y="-94"/>
+      <point x="396" y="-88"/>
+      <point x="475" y="-75" type="curve"/>
+      <point x="475" y="-131" type="line"/>
+      <point x="364" y="-141"/>
+      <point x="265" y="-146"/>
+      <point x="178" y="-147" type="curve"/>
+      <point x="178" y="33" type="line"/>
+      <point x="396" y="33" type="line"/>
+      <point x="396" y="99" type="line"/>
+      <point x="178" y="99" type="line"/>
+    </contour>
+    <contour>
+      <point x="530" y="152" type="line"/>
+      <point x="820" y="152" type="line"/>
+      <point x="820" y="99" type="line"/>
+      <point x="588" y="99" type="line"/>
+      <point x="588" y="31" type="line"/>
+      <point x="820" y="31" type="line"/>
+      <point x="820" y="-22" type="line"/>
+      <point x="588" y="-22" type="line"/>
+      <point x="588" y="-89" type="line"/>
+      <point x="840" y="-89" type="line"/>
+      <point x="840" y="-141" type="line"/>
+      <point x="530" y="-141" type="line"/>
+    </contour>
+  </outline>
+</glyph>

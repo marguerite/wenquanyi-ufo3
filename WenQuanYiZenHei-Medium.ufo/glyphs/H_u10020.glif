@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Hu10020" format="2">
+  <advance width="1024"/>
+  <outline>
+    <contour>
+      <point x="109" y="670" type="line"/>
+      <point x="514" y="670" type="line"/>
+      <point x="514" y="352" type="line"/>
+      <point x="182" y="352" type="line"/>
+      <point x="182" y="132" type="line"/>
+      <point x="239" y="132" type="line" smooth="yes"/>
+      <point x="338.333" y="132"/>
+      <point x="466" y="146.667"/>
+      <point x="622" y="176" type="curve"/>
+      <point x="628" y="106" type="line"/>
+      <point x="460" y="72.6667"/>
+      <point x="287" y="56"/>
+      <point x="109" y="56" type="curve"/>
+      <point x="109" y="420" type="line"/>
+      <point x="442" y="420" type="line"/>
+      <point x="442" y="603" type="line"/>
+      <point x="109" y="603" type="line"/>
+    </contour>
+  </outline>
+</glyph>

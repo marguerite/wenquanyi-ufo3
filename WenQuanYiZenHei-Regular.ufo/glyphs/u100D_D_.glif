@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="u100DD" format="2">
+  <advance width="1009"/>
+  <outline>
+    <contour>
+      <point x="111" y="663" type="line"/>
+      <point x="611" y="663" type="line"/>
+      <point x="611" y="584" type="line" smooth="yes"/>
+      <point x="611" y="454"/>
+      <point x="602" y="343"/>
+      <point x="582" y="250" type="curve"/>
+      <point x="518" y="260" type="line"/>
+      <point x="541" y="380"/>
+      <point x="553" y="496"/>
+      <point x="553" y="609" type="curve"/>
+      <point x="111" y="609" type="line"/>
+    </contour>
+  </outline>
+</glyph>
