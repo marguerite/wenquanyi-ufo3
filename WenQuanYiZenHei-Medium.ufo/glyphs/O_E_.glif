@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="OE" format="2">
-  <advance width="1018"/>
+  <advance width="1018" height="1018"/>
   <unicode hex="0152"/>
   <outline>
     <contour>
@@ -38,7 +38,9 @@
       <point x="251.667" y="657"/>
       <point x="165" y="568.333"/>
       <point x="159" y="391" type="curve"/>
-      <point x="159" y="371" type="line" smooth="yes"/>
+      <point x="159" y="391"/>
+      <point x="159" y="391"/>
+      <point x="159" y="371" type="curve" smooth="yes"/>
       <point x="159" y="218.333"/>
       <point x="213.667" y="125.667"/>
       <point x="323" y="93" type="curve" smooth="yes"/>

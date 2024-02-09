@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni7218" format="2">
-  <advance width="1024"/>
+  <advance width="1024" height="1024"/>
   <unicode hex="7218"/>
   <outline>
     <contour>
       <point x="483" y="388" type="line"/>
-      <point x="483" y="407" type="line"/>
+      <point x="483" y="388"/>
+      <point x="483" y="388"/>
+      <point x="483" y="407" type="curve"/>
       <point x="485" y="407" type="line"/>
       <point x="485" y="410" type="line"/>
       <point x="494" y="409" type="line"/>

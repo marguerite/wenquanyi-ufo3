@@ -30,7 +30,7 @@ Codename: Fighting-State RC1</string>
     <key>italicAngle</key>
     <real>0</real>
     <key>openTypeHeadCreated</key>
-    <string>2024/02/08 14:57:51</string>
+    <string>2007/06/03 15:56:31</string>
     <key>openTypeHheaAscender</key>
     <integer>986</integer>
     <key>openTypeHheaDescender</key>
@@ -115,6 +115,8 @@ Codename: Fighting-State RC1</string>
     <integer>51</integer>
     <key>openTypeOS2StrikeoutPosition</key>
     <integer>265</integer>
+    <key>openTypeVheaTypoLineGap</key>
+    <integer>92</integer>
     <key>openTypeOS2UnicodeRanges</key>
     <array>
       <integer>0</integer>

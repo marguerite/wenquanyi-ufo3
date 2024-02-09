@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni41BE" format="2">
-  <advance width="1024"/>
+  <advance width="1024" height="1024"/>
   <unicode hex="41BE"/>
   <outline>
     <contour>
-      <point x="149" y="-58" type="line"/>
+      <point x="149" y="-58" type="curve"/>
       <point x="147" y="111" type="line"/>
       <point x="817" y="111" type="line"/>
       <point x="817" y="-58" type="line"/>
@@ -22,6 +22,8 @@
       <point x="31.3333" y="-85"/>
       <point x="31.3333" y="-70.6667"/>
       <point x="30" y="-56" type="curve"/>
+      <point x="30" y="-56"/>
+      <point x="30" y="-56"/>
     </contour>
     <contour>
       <point x="788" y="183" type="line"/>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni467C" format="2">
-  <advance width="1024"/>
+  <advance width="1024" height="1024"/>
   <unicode hex="467C"/>
   <outline>
     <contour>
@@ -120,7 +120,9 @@
       <point x="171.833" y="417.667"/>
       <point x="152" y="369.667"/>
       <point x="128" y="335" type="curve"/>
-      <point x="437" y="335" type="line"/>
+      <point x="128" y="335"/>
+      <point x="128" y="335"/>
+      <point x="437" y="335" type="curve"/>
       <point x="437" y="-18" type="line"/>
       <point x="370" y="-18" type="line"/>
       <point x="370" y="41" type="line"/>

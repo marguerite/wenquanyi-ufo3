@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni6BC2" format="2">
-  <advance width="1024"/>
+  <advance width="1024" height="1024"/>
   <unicode hex="6BC2"/>
   <outline>
     <contour>
       <point x="25" y="340" type="line"/>
       <point x="25" y="537" type="line"/>
-      <point x="91" y="536" type="line"/>
-      <point x="91" y="535" type="line"/>
+      <point x="91" y="536" type="line" smooth="yes"/>
+      <point x="91" y="535"/>
+      <point x="91" y="535"/>
+      <point x="91" y="535" type="curve"/>
       <point x="525" y="535" type="line"/>
       <point x="525" y="340" type="line"/>
       <point x="234" y="340" type="line"/>

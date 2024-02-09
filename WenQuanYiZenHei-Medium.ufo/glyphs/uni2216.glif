@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni2216" format="2">
-  <advance width="532"/>
+  <advance width="532" height="532"/>
   <unicode hex="2216"/>
   <outline>
-    <contour>
-      <point x="85.0986" y="791" type="line"/>
-      <point x="155.566" y="791" type="line"/>
-      <point x="479.339" y="2" type="line"/>
-      <point x="408.871" y="2" type="line"/>
-    </contour>
+    <component base="slash.mono" xScale="-0.952271" xOffset="526" yOffset="25"/>
   </outline>
 </glyph>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni650E" format="2">
-  <advance width="1024"/>
+  <advance width="1024" height="1024"/>
   <unicode hex="650E"/>
   <outline>
     <contour>
@@ -184,8 +184,10 @@
       <point x="625" y="636" type="curve"/>
     </contour>
     <contour>
-      <point x="973" y="625" type="line"/>
+      <point x="973" y="625" type="curve"/>
       <point x="973" y="624" type="line"/>
+      <point x="973" y="625"/>
+      <point x="973" y="625"/>
     </contour>
     <contour>
       <point x="4" y="283" type="curve"/>

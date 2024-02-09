@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni5F3D" format="2">
-  <advance width="1024"/>
+  <advance width="1024" height="1024"/>
   <unicode hex="5F3D"/>
   <outline>
     <contour>
-      <point x="857" y="633" type="line"/>
+      <point x="857" y="633" type="curve"/>
       <point x="857" y="475" type="line"/>
       <point x="644" y="475" type="line"/>
       <point x="644" y="633" type="line"/>
@@ -114,6 +114,8 @@
       <point x="960.667" y="664.333"/>
       <point x="960.667" y="647.333"/>
       <point x="962" y="630" type="curve"/>
+      <point x="962" y="630"/>
+      <point x="962" y="630"/>
     </contour>
     <contour>
       <point x="790" y="632" type="curve"/>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="afii10034" format="2">
-  <advance width="617"/>
+  <advance width="617" height="617"/>
   <unicode hex="0420"/>
   <outline>
     <contour>
@@ -8,11 +8,8 @@
       <point x="583" y="429"/>
       <point x="531.333" y="363.333"/>
       <point x="428" y="338" type="curve" smooth="yes"/>
-      <point x="388" y="328.625"/>
-      <point x="321.633" y="323.938"/>
-      <point x="228.898" y="323.938" type="curve" smooth="yes"/>
-      <point x="222.716" y="323.938"/>
-      <point x="216.417" y="323.959"/>
+      <point x="385.333" y="328"/>
+      <point x="312.667" y="323.333"/>
       <point x="210" y="324" type="curve" smooth="yes"/>
       <point x="194" y="324"/>
       <point x="194" y="324"/>

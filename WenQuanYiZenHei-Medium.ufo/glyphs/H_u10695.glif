@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Hu10695" format="2">
-  <advance width="1024"/>
+  <advance width="1024" height="1024"/>
   <outline>
     <contour>
       <point x="178" y="157" type="line"/>
@@ -40,7 +40,9 @@
       <point x="771" y="-90" type="line"/>
       <point x="778" y="-89" type="line"/>
       <point x="779" y="-89" type="line"/>
-      <point x="798" y="55" type="line"/>
+      <point x="779" y="-89"/>
+      <point x="779" y="-89"/>
+      <point x="798" y="55" type="curve"/>
       <point x="857" y="55" type="line" smooth="yes"/>
       <point x="865" y="55"/>
       <point x="868.667" y="50.6667"/>

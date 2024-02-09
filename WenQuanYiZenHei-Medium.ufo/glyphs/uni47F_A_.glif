@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni47FA" format="2">
-  <advance width="1024"/>
+  <advance width="1024" height="1024"/>
   <unicode hex="47FA"/>
   <outline>
     <contour>
@@ -31,6 +31,9 @@
       <point x="533" y="45.6667"/>
     </contour>
     <contour>
+      <point x="509" y="478.5" type="curve" smooth="yes"/>
+      <point x="509" y="587.5"/>
+      <point x="507" y="696.333"/>
       <point x="503" y="805" type="curve"/>
       <point x="925" y="805" type="line"/>
       <point x="916.333" y="587.667"/>
@@ -39,9 +42,6 @@
       <point x="503" y="152" type="line"/>
       <point x="507" y="260.667"/>
       <point x="509" y="369.5"/>
-      <point x="509" y="478.5" type="curve" smooth="yes"/>
-      <point x="509" y="587.5"/>
-      <point x="507" y="696.333"/>
     </contour>
     <contour>
       <point x="406" y="323" type="curve"/>

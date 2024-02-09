@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="afii10019" format="2">
-  <advance width="656"/>
+  <advance width="656" height="656"/>
   <unicode hex="0412"/>
   <outline>
     <contour>
@@ -24,7 +24,9 @@
       <point x="584" y="471.667"/>
       <point x="548" y="419"/>
       <point x="476" y="391" type="curve"/>
-      <point x="464" y="387" type="line"/>
+      <point x="476" y="391"/>
+      <point x="476" y="391"/>
+      <point x="464" y="387" type="curve"/>
       <point x="556.667" y="359.667"/>
       <point x="603" y="296"/>
     </contour>

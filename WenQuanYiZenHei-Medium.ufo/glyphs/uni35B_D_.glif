@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni35BD" format="2">
-  <advance width="1024"/>
+  <advance width="1024" height="1024"/>
   <unicode hex="35BD"/>
   <outline>
     <contour>
@@ -31,6 +31,9 @@
       <point x="518.333" y="28.6667"/>
     </contour>
     <contour>
+      <point x="470" y="370" type="curve" smooth="yes"/>
+      <point x="470" y="466"/>
+      <point x="468" y="562"/>
       <point x="464" y="658" type="curve"/>
       <point x="567" y="658" type="line"/>
       <point x="570.333" y="662.667"/>
@@ -70,9 +73,6 @@
       <point x="464" y="82" type="line"/>
       <point x="468" y="178"/>
       <point x="470" y="274"/>
-      <point x="470" y="370" type="curve" smooth="yes"/>
-      <point x="470" y="466"/>
-      <point x="468" y="562"/>
     </contour>
     <contour>
       <point x="126" y="106" type="line"/>

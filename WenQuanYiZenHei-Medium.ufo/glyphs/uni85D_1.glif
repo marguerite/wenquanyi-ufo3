@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni85D1" format="2">
-  <advance width="1024"/>
+  <advance width="1024" height="1024"/>
   <unicode hex="85D1"/>
   <outline>
     <contour>
@@ -13,8 +13,10 @@
       <point x="182" y="539" type="curve"/>
       <point x="170" y="539" type="line"/>
       <point x="170" y="656" type="line"/>
-      <point x="234" y="655" type="line"/>
-      <point x="234" y="654" type="line"/>
+      <point x="234" y="655" type="line" smooth="yes"/>
+      <point x="234" y="654"/>
+      <point x="234" y="654"/>
+      <point x="234" y="654" type="curve"/>
       <point x="690" y="654" type="line"/>
       <point x="690" y="579" type="line"/>
       <point x="883" y="579" type="line"/>
@@ -138,7 +140,9 @@
       <point x="238.667" y="581.667"/>
       <point x="242.667" y="581.333"/>
       <point x="246" y="580" type="curve"/>
-      <point x="246" y="579" type="line"/>
+      <point x="246" y="580"/>
+      <point x="246" y="580"/>
+      <point x="246" y="579" type="curve"/>
       <point x="518" y="579" type="line"/>
       <point x="525" y="585" type="line"/>
       <point x="530" y="579" type="line"/>

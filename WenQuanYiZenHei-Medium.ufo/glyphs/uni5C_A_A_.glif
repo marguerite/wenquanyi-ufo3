@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni5CAA" format="2">
-  <advance width="1024"/>
+  <advance width="1024" height="1024"/>
   <unicode hex="5CAA"/>
   <outline>
     <contour>
@@ -31,10 +31,14 @@
       <point x="69" y="153" type="line"/>
       <point x="102" y="330" type="line"/>
       <point x="102" y="352" type="line"/>
-      <point x="106" y="352" type="line"/>
+      <point x="102" y="352"/>
+      <point x="102" y="352"/>
+      <point x="106" y="352" type="curve" smooth="yes"/>
       <point x="107" y="358" type="line"/>
       <point x="139" y="352" type="line"/>
-      <point x="315" y="352" type="line"/>
+      <point x="139" y="352"/>
+      <point x="139" y="352"/>
+      <point x="315" y="352" type="curve"/>
       <point x="315" y="441" type="line"/>
       <point x="160" y="441" type="line" smooth="yes"/>
       <point x="124.667" y="441"/>

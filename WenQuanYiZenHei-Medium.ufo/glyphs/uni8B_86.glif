@@ -1,17 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni8B86" format="2">
-  <advance width="1024"/>
+  <advance width="1024" height="1024"/>
   <unicode hex="8B86"/>
   <outline>
     <contour>
-      <point x="258" y="-118" type="line"/>
+      <point x="258" y="-118" type="curve"/>
       <point x="197" y="-118" type="line"/>
-      <point x="197" y="-3" type="line"/>
+      <point x="197" y="-118"/>
+      <point x="197" y="-118"/>
+      <point x="197" y="-3" type="curve"/>
       <point x="258" y="-4" type="line"/>
-      <point x="258" y="-5" type="line"/>
+      <point x="258" y="-4"/>
+      <point x="258" y="-4"/>
+      <point x="258" y="-5" type="curve"/>
       <point x="798" y="-5" type="line"/>
       <point x="798" y="-116" type="line"/>
       <point x="258" y="-117" type="line"/>
+      <point x="258" y="-117"/>
+      <point x="258" y="-117"/>
     </contour>
     <contour>
       <point x="836" y="67" type="curve"/>

@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni5EF8" format="2">
-  <advance width="1024"/>
+  <advance width="1024" height="1024"/>
   <unicode hex="5EF8"/>
   <outline>
     <contour>
+      <point x="393" y="349.5" type="curve" smooth="yes"/>
+      <point x="393" y="438.5"/>
+      <point x="391" y="527.333"/>
       <point x="387" y="616" type="curve"/>
       <point x="611" y="616" type="line"/>
       <point x="611" y="699" type="line" smooth="yes"/>
@@ -24,9 +27,6 @@
       <point x="387" y="83" type="line"/>
       <point x="391" y="171.667"/>
       <point x="393" y="260.5"/>
-      <point x="393" y="349.5" type="curve" smooth="yes"/>
-      <point x="393" y="438.5"/>
-      <point x="391" y="527.333"/>
     </contour>
     <contour>
       <point x="132" y="656" type="line" smooth="yes"/>

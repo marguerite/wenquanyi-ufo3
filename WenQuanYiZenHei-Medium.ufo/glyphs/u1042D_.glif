@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="u1042D" format="2">
-  <advance width="1024"/>
+  <advance width="1024" height="1024"/>
   <outline>
     <contour>
       <point x="345" y="777" type="line"/>
@@ -16,7 +16,9 @@
       <point x="596.333" y="510.667"/>
       <point x="687" y="459.333"/>
       <point x="825" y="430" type="curve" smooth="yes"/>
-      <point x="834" y="428" type="line"/>
+      <point x="825" y="430"/>
+      <point x="825" y="430"/>
+      <point x="834" y="428" type="curve" smooth="yes"/>
       <point x="895" y="416" type="line"/>
       <point x="903" y="416" type="line"/>
       <point x="899.667" y="406.667"/>
@@ -30,7 +32,9 @@
       <point x="620.667" y="433"/>
       <point x="604" y="445" type="curve" smooth="yes"/>
       <point x="518" y="509" type="line"/>
-      <point x="493" y="487" type="line" smooth="yes"/>
+      <point x="518" y="509"/>
+      <point x="518" y="509"/>
+      <point x="493" y="487" type="curve" smooth="yes"/>
       <point x="477.667" y="473.667"/>
       <point x="458.333" y="459.667"/>
       <point x="435" y="445" type="curve" smooth="yes"/>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni3F20" format="2">
-  <advance width="1024"/>
+  <advance width="1024" height="1024"/>
   <unicode hex="3F20"/>
   <outline>
     <contour>
@@ -173,8 +173,10 @@
       <point x="103" y="745" type="line"/>
     </contour>
     <contour>
-      <point x="453" y="686" type="line"/>
+      <point x="453" y="686" type="curve"/>
       <point x="453" y="685" type="line"/>
+      <point x="453" y="685"/>
+      <point x="453" y="685"/>
     </contour>
   </outline>
 </glyph>

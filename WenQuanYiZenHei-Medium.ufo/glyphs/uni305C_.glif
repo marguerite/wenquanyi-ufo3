@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni305C" format="2">
-  <advance width="1048"/>
+  <advance width="1048" height="1048"/>
   <unicode hex="305C"/>
   <outline>
     <contour>
-      <point x="1069" y="670" type="line"/>
+      <point x="1069" y="670" type="curve"/>
       <point x="1030" y="631" type="line"/>
       <point x="978" y="679"/>
       <point x="945" y="708.333"/>
@@ -16,6 +16,8 @@
       <point x="990.333" y="746.333"/>
       <point x="1024.67" y="718.333"/>
       <point x="1062" y="677" type="curve"/>
+      <point x="1062" y="677"/>
+      <point x="1062" y="677"/>
     </contour>
     <contour>
       <point x="990" y="588" type="line"/>
@@ -99,7 +101,9 @@
       <point x="34" y="402.667"/>
       <point x="110.333" y="411"/>
       <point x="249" y="427" type="curve" smooth="yes"/>
-      <point x="268" y="429" type="line"/>
+      <point x="249" y="427"/>
+      <point x="249" y="427"/>
+      <point x="268" y="429" type="curve"/>
       <point x="266.667" y="535"/>
       <point x="262.667" y="613"/>
       <point x="256" y="663" type="curve"/>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="emacron" format="2">
-  <advance width="552"/>
+  <advance width="552" height="552"/>
   <unicode hex="0113"/>
   <outline>
     <contour>
@@ -12,11 +12,8 @@
     <contour>
       <point x="506" y="254" type="line"/>
       <point x="128" y="254" type="line"/>
-      <point x="127.986" y="252.611"/>
-      <point x="127.979" y="251.229"/>
-      <point x="127.979" y="249.854" type="curve" smooth="yes"/>
-      <point x="127.979" y="185.215"/>
-      <point x="143.319" y="135.597"/>
+      <point x="127.333" y="187.333"/>
+      <point x="142.667" y="136.333"/>
       <point x="174" y="101" type="curve" smooth="yes"/>
       <point x="200" y="71.6667"/>
       <point x="236.333" y="57"/>
@@ -55,11 +52,8 @@
     </contour>
     <contour>
       <point x="418" y="313" type="line"/>
-      <point x="418.013" y="314.049"/>
-      <point x="418.019" y="315.094"/>
-      <point x="418.019" y="316.134" type="curve" smooth="yes"/>
-      <point x="418.019" y="371.255"/>
-      <point x="400.679" y="413.21"/>
+      <point x="418.667" y="369.667"/>
+      <point x="401.333" y="412.667"/>
       <point x="366" y="442" type="curve" smooth="yes"/>
       <point x="342" y="462"/>
       <point x="313" y="472"/>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Hu10655" format="2">
-  <advance width="1024"/>
+  <advance width="1024" height="1024"/>
   <outline>
     <contour>
       <point x="392" y="219" type="line"/>
@@ -15,7 +15,7 @@
       <point x="206" y="67" type="line"/>
     </contour>
     <contour>
-      <point x="519" y="38" type="line"/>
+      <point x="519" y="38" type="curve" smooth="yes"/>
       <point x="599" y="38" type="line"/>
       <point x="690" y="35" type="line" smooth="yes"/>
       <point x="746.667" y="33.6667"/>
@@ -43,7 +43,8 @@
       <point x="279" y="3"/>
       <point x="332.667" y="35.3333"/>
       <point x="440" y="38" type="curve"/>
-      <point x="438.99" y="38" type="line"/>
+      <point x="433.333" y="38"/>
+      <point x="459.667" y="38"/>
     </contour>
     <contour>
       <point x="352" y="-60" type="curve" smooth="yes"/>
@@ -59,11 +60,8 @@
       <point x="758.667" y="-62.3333"/>
       <point x="759" y="-60"/>
       <point x="759" y="-58" type="curve" smooth="yes"/>
-      <point x="759" y="-32.1867"/>
-      <point x="717.699" y="-19.28"/>
-      <point x="635.096" y="-19.28" type="curve" smooth="yes"/>
-      <point x="623.832" y="-19.28"/>
-      <point x="611.8" y="-19.52"/>
+      <point x="759" y="-28.6667"/>
+      <point x="705.667" y="-16"/>
       <point x="599" y="-20" type="curve"/>
       <point x="532" y="-20" type="line"/>
       <point x="444" y="-19" type="line"/>
